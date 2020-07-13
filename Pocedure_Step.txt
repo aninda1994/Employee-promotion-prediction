@@ -1,0 +1,17 @@
+Procedure of the assignment problem
+
+1. Import the train and test data set.
+2. Impute the missing value.
+3. Convert Categorical feature to numerical feature using Onehotencoder.
+4. The target variable is imbalance. Using Sampling technique to balance the target variable.
+5. Build the model using Logistic regression.
+6. Hyperparameter optimization for Logistic regression model.
+7. Evaluate the model with f1 score.
+8. Save the test set output in a CSV file.
+9. Build the model using Random Forest.
+10. Hyperparameter optimization for Random Forest Model.
+11. Evaluate the model with f1 score.
+12. Save the test set output in a CSV file.
+13. Build the model using Gradient Boost.
+14. Evaluate the model with f1 score.
+15. Save the test set output in a CSV file.
